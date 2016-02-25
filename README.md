@@ -10,10 +10,9 @@ Your task is to create Javascript functions that represents calculator actions. 
 
 > You should be able to run these functions by passing in two arguments and receiving a return value!  
 
-
-**NOTE:** Do not attempt the bonuses until you have completed the next two exercises in the [Functions Fundamentals repo](git@github.com:ga-wdi-exercises/js-calculator-intro.git).
-
 ### Bonus 1
+
+> **NOTE:** Do not attempt the bonuses until you have completed the next two exercises in the [Functions Fundamentals repo](git@github.com:ga-wdi-exercises/js-calculator-intro.git).  
 
 Create a Javascript object that represents a calculator. It should have methods that provide it with the following functionality...
 
