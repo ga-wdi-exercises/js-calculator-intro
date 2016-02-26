@@ -1,0 +1,20 @@
+body{
+  padding:2em;
+  font-family:sans-serif;
+}
+
+.pass, .fail{
+  padding:.5em;
+  margin-bottom:1em;
+  line-height:1.5;
+}
+
+.pass{
+  background:lightGreen;
+  border: 3px solid green;
+}
+
+.fail{
+  background:pink;
+  border: 3px solid red;
+}
